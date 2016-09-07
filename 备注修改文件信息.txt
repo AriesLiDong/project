@@ -1,0 +1,3 @@
+2016.9.4 修改文件:C:\xampp\htdocs\project\public\admin\js\charisma.js
+	 修改内容:  Line 46 , Line 48 ,
+		    将路径修改为绝对路径 http://www.blog.com
